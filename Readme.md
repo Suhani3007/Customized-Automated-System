@@ -28,4 +28,4 @@ Usage Instructions:-
 Detailed usage instructions for each integrated technology can be found in their respective documentation. Refer to the official documentation for AWS services, system applications, WhatsApp, weather APIs, ChatGPT, and sign language recognition and generation technologies.
 
 Contribution Guidelines:-
-Contributions to this project are welcome. Please follow the contribution guidelines outlined in the CONTRIBUTING.md file to ensure a consistent and maintainable codebase
+Contributions to this project are welcome. Please follow the contribution guidelines outlined in the CONTRIBUTING.md file to ensure a consistent and maintainable codebase.
